@@ -1,4 +1,4 @@
-package com.abuBotProject.service;
+package com.abuBotProject.entity;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
