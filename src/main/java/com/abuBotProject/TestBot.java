@@ -118,7 +118,7 @@ public class TestBot extends TelegramLongPollingBot {
     }
 
     private String getCurrencyButton(Currency saved, Currency current) {
-        return saved == current ? current + " ✔️" : current.name();
+        return saved == current ? current + " ✅" : current.name();
     }
 
     @Override
